@@ -1,3 +1,10 @@
+'''
+slew
+lift
+extend
+'''
+
+
 # 9v battery connect
 
 import pygame
